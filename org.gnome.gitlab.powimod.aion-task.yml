@@ -16,6 +16,6 @@ modules:
     sources:
       - type: git
         url: https://gitlab.gnome.org/powimod/aion-task.git 
-        tag: 0.9.2
-        commit: dc8ba23a57f849d7fc7f0272ef3a924d99e78876
+        tag: 0.9.3
+        commit: d157c0542b81a3e680c79a24f365a9ec03efd24d
 
